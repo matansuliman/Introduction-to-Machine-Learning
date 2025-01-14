@@ -1,1 +1,1 @@
-# Introduction-to-Machine-Learning
+This project performs multi-class handwritten digit classification on the MNIST dataset using the Pocket Algorithm, Softmax Regression, and Linear Regression, with vectorized NumPy implementations for efficiency.
